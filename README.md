@@ -19,6 +19,8 @@ In progess!
   - Why should someone enroll as a student in your institution.
   - Fee.
 - Online monitoring system of applications
+- Online attendence monitoring.
+- Save files.
 
 ##### As a person looking for an institution.
 - View institutions in your region/city(Including details which are mentioned above).
