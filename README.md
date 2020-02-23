@@ -7,16 +7,17 @@ In progess!
 
 ## Features (DRAFT)
 ##### As institution representative
-- Add your institution to our database which will then be shown on the website.
+- Register your institution to our database which will then be shown on the website.
 - You will have to include the following:
   - Name, Address, Phone number.
   - Study curriculum.
+  - Courses.
   - Campus video/images.
   - Campus facilities.
   - How is your institution different from the others?
   - Why should someone enroll as a student in your institution.
   - Fee.
-  - Etc
+- Online monitoring system of applications
 
 ##### As a person looking for an institution.
 - View institutions in your region/city(Including details which are mentioned above).
@@ -26,3 +27,6 @@ In progess!
 - Staff details.
 - Compare different curriculums.
 - Short list based on curriculums.
+- Apply to universities or check eligibility.
+
+###### A mobile app maybe a followup to this.
