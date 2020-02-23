@@ -1,4 +1,5 @@
 # Institution Lookup website
+[![License](https://img.shields.io/github/license/python-discord/bot)](LICENSE)
 
 A website where educational institutions can show case themselves. This website makes it easier for people to select their schools or universities, or to select a study curriculum.
 
