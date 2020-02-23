@@ -24,3 +24,5 @@ In progess!
 - Online chat to clarify an doubts.
 - View rating/reviews.
 - Staff details.
+- Compare different curriculums.
+- Short list based on curriculums.
